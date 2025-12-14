@@ -1,6 +1,6 @@
 # Healthcare Cost Prediction & Uncertainty Quantification
 
-**Notice that this research was supervised by Dr Liu at LNUT. The dataset cannot be posted as open-source.**
+** !!Notice that this research was supervised by Dr Liu at LNUT. The dataset cannot be posted as open-source !!**
 
 ## Project Overview
 This project develops a robust machine learning pipeline to forecast hospital procedure costs. It addresses high-dimensional healthcare data challenges by integrating **Natural Language Processing (NLP)** for clinical descriptions and **Conformal Prediction** for reliable uncertainty quantification.
