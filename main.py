@@ -1,4 +1,3 @@
-# main.py
 # Healthcare Cost Prediction using LightGBM and Conformal Prediction
 # Author: Siqi Gong
 # Description: This pipeline implements feature engineering, time-series forecasting, 
