@@ -18,7 +18,7 @@ This project develops a robust machine learning pipeline to forecast hospital pr
 3.  **Uncertainty Quantification**:
     * Implemented **Split Conformal Prediction** to generate distribution-free, statistically valid prediction intervals (Target $\alpha=0.1$).
 4.  **Interpretability**:
-    * SHAP (SHapley Additive exPlanations) analysis to identify cost drivers (e.g., Clinical Severity vs. Historical Trends).
+    * SHAP (SHapley Additive exPlanations) analysis to identify cost drivers (since this project is unfinished and not published yet, I cannot disclose key findings in this open-source public repository).
 
 ## Results
 * **Accuracy**: Reduced MAE from 8640 (Baseline) to 6831 (LightGBM).
